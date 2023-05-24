@@ -5,6 +5,7 @@
  * @head: stack head
  * @counter: line_number
  * Return: no return
+ * Author: Brian Ngugi
 */
 void f_pchar(stack_t **head, unsigned int counter)
 {
